@@ -3,5 +3,11 @@
 	"domain": "",
 	"dynamic_records": [
 	""
+	],
+	"dynamic_records-v4": [
+	""
+	],
+	"dynamic_records-v6": [
+	""
 	]
 }
